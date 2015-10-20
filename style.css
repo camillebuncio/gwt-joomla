@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {font-family: "Roboto Condensed",sans-serif; font-weight:
 #main-nav {background: #f7f7f7;}
 
 /*masthead*/
-#masthead {background:#fff; border-bottom: 1px solid #f2f2f2; padding: 1.25rem 0;}
+#masthead {background:#fff; border-bottom: 2px solid #f2f2f2; padding: 1.25rem 0;}
 #masthead #logo h1 {margin:0; padding:0;}
 /* #masthead #logo p {margin:0; padding:0;} */
 #masthead #logo p {padding:0;}
